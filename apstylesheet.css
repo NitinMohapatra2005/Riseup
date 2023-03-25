@@ -1,0 +1,57 @@
+body{
+    background: white;
+}
+.info{
+    background: white;
+    text-align: right;
+}
+.home{
+    color: black;
+}
+.cont{
+    color: black;
+    }
+.us{
+    color: black;
+}
+.div{
+    color: black;
+}
+table{
+    background-color: hotpink;
+    color: yellowgreen;
+}
+.heading{
+    color: red;
+}
+.line{
+    background: red;
+}
+.nav{
+    border: 2px solid black;
+}
+.v1{
+    border: 2px solid black;
+    margin: 12px 24px 12px 24px;;
+}
+.v2{
+    border: 2px solid black;
+    margin: 12px 24px 12px 24px;
+}
+.v3{
+    border: 2px solid black;
+    margin: 12px 24px 12px 24px;
+}.v4{
+    border: 2px solid black;
+    margin: 12px 24px 12px 24px;
+}
+.mark{
+    background: hotpink;
+}
+.para{
+  font-family: 'Alkatra', cursive;;
+}
+.img1{
+    margin: 34px;
+    padding-left: 424px;
+}

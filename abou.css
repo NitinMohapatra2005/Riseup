@@ -1,0 +1,23 @@
+body{
+    background: white
+    /* background: darkgrey; */
+}
+.info{
+    background:white;
+    text-align: right;
+}
+.home{
+    color: black;
+}
+.cont{
+    color:black;
+    }
+.us{
+    color:black;
+}
+.headings{
+    text-align: center;
+}
+.para 1{
+    font-family: 'Alkatra', cursive;;
+}
